@@ -2,9 +2,9 @@
 
 const App = () => {
   return (
-    <div>
-      
-    </div>
+    <>
+     <h1>Learning SupaBase</h1> 
+    </>
   )
 }
 
